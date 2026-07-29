@@ -2,6 +2,8 @@
 
 A modern and responsive personal portfolio website built with HTML5, CSS3 and JavaScript.
 
+More features and improvements will be added.
+
 ## Technologies
 
 - HTML5
