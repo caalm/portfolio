@@ -14,7 +14,7 @@ More features and improvements will be added.
 
 ### Home
 
-![Home](screenshots/01-home.png)
+![Home](screenshots/01-home2.png)
 
 ### About
 
